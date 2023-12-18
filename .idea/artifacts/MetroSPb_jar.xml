@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MetroSPb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MetroSPb_jar</output-path>
+    <root id="archive" name="MetroSPb.jar">
+      <element id="module-output" name="MetroSPb" />
+    </root>
+  </artifact>
+</component>
